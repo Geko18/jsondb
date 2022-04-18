@@ -30,5 +30,31 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ],
+  "users": [
+    {
+      "id": 12,
+      "vorname": "Wojciech",
+      "nachname": "Kozon",
+      "beruf": "Softwareentwickler",
+      "adresse": "1100 Wien",
+      "gebdat": "august 18, 1958"
+    },
+    {
+      "id": 45,
+      "vorname": "Stefan",
+      "nachname": "Maruda",
+      "beruf": "Schlosser",
+      "adresse": "1230 Lienz",
+      "gebdat": "January 28, 1962"
+    },
+    {
+      "id": 78,
+      "vorname": "Michael",
+      "nachname": "Tester",
+      "beruf": "Tester",
+      "adresse": "Unbekannt",
+      "gebdat": "January 28, 1972"
+    }
   ]
 }
