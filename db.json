@@ -35,7 +35,7 @@
     {
       "id": 12,
       "vorname": "Wojciech",
-      "nachname": "Kozon",
+      "nachname": "Test",
       "beruf": "Softwareentwickler",
       "adresse": "1100 Wien",
       "gebdat": "august 18, 1958"
